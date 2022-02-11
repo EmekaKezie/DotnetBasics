@@ -1,0 +1,14 @@
+C:\Users\emeka\source\repos\RefreshMemory\RefreshMemory\bin\Debug\netcoreapp3.1\RefreshMemory.exe
+C:\Users\emeka\source\repos\RefreshMemory\RefreshMemory\bin\Debug\netcoreapp3.1\RefreshMemory.deps.json
+C:\Users\emeka\source\repos\RefreshMemory\RefreshMemory\bin\Debug\netcoreapp3.1\RefreshMemory.runtimeconfig.json
+C:\Users\emeka\source\repos\RefreshMemory\RefreshMemory\bin\Debug\netcoreapp3.1\RefreshMemory.runtimeconfig.dev.json
+C:\Users\emeka\source\repos\RefreshMemory\RefreshMemory\bin\Debug\netcoreapp3.1\RefreshMemory.dll
+C:\Users\emeka\source\repos\RefreshMemory\RefreshMemory\bin\Debug\netcoreapp3.1\RefreshMemory.pdb
+C:\Users\emeka\source\repos\RefreshMemory\RefreshMemory\obj\Debug\netcoreapp3.1\RefreshMemory.csprojAssemblyReference.cache
+C:\Users\emeka\source\repos\RefreshMemory\RefreshMemory\obj\Debug\netcoreapp3.1\RefreshMemory.AssemblyInfoInputs.cache
+C:\Users\emeka\source\repos\RefreshMemory\RefreshMemory\obj\Debug\netcoreapp3.1\RefreshMemory.AssemblyInfo.cs
+C:\Users\emeka\source\repos\RefreshMemory\RefreshMemory\obj\Debug\netcoreapp3.1\RefreshMemory.csproj.CoreCompileInputs.cache
+C:\Users\emeka\source\repos\RefreshMemory\RefreshMemory\obj\Debug\netcoreapp3.1\RefreshMemory.dll
+C:\Users\emeka\source\repos\RefreshMemory\RefreshMemory\obj\Debug\netcoreapp3.1\RefreshMemory.pdb
+C:\Users\emeka\source\repos\RefreshMemory\RefreshMemory\obj\Debug\netcoreapp3.1\RefreshMemory.genruntimeconfig.cache
+C:\Users\emeka\source\repos\RefreshMemory\RefreshMemory\obj\Debug\netcoreapp3.1\RefreshMemory.csproj.CopyComplete

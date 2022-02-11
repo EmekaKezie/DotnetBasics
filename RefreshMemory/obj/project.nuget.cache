@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YcEmActR7uctkFM84hwTWH7j0UeCNcwPAELO9KIUht2YxY4r0K4HVBrTgZNPSSepPObv9dBYu7/mm77fptT6yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emeka\\source\\repos\\DotnetBasics\\RefreshMemory\\RefreshMemory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emeka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
